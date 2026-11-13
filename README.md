@@ -31,10 +31,11 @@ Também estudo **Prolog** (programação lógica) e **Assembly / microarquitetur
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
+| [**Recomendador de Cursos UFPB**](https://github.com/kaduix/recomendador-cursos-ufpb) | Busca e recomendação de cursos da UFPB: interface web em Flask e base de conhecimento em Prolog que ranqueia cursos por interesses e compara dois cursos | Python · Flask · Prolog |
 | [**Mic-1 / IJVM**](https://github.com/Pedro15FNM/Projeto_Arquitetura2) | Máquina Mic-1 modificada que lê instruções IJVM, traduz em microinstruções de 23 bits e gera um log completo de registradores, memória e flags | Python |
 | [**PowerByte**](https://github.com/PedroMaxDEV/Projeto--PowerByte) | E-commerce via terminal feito em POO. Fiquei com a integração de banco de dados: persistência em SQLite, transações e relatório de vendas | Java · SQLite |
 
-<sub>Projetos em grupo da UFPB. Em breve também: estruturas de dados em C, recomendador de disciplinas (Flask + Prolog), modelo de banco para e-commerce em MySQL e uma calculadora de frete em JavaScript.</sub>
+<sub>Projetos da UFPB, alguns feitos em grupo. Em breve também: estruturas de dados em C, modelo de banco para e-commerce em MySQL e uma calculadora de frete em JavaScript.</sub>
 
 ### Além do código
 
